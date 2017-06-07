@@ -1,2 +1,8 @@
+# python compile files
+*.pyc
+
 # project's virtual env
 .env/
+
+# sqlite database file
+*.sqlite3
