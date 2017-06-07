@@ -1,0 +1,26 @@
+{
+  "name": "drfa",
+  "version": "1.0.0",
+  "description": "Django REST Framework and AngularJS",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sunshouxing/DRFA.git"
+  },
+  "keywords": [
+    "django",
+    "angular"
+  ],
+  "author": "Arthur Sun",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/sunshouxing/DRFA/issues"
+  },
+  "homepage": "https://github.com/sunshouxing/DRFA#readme",
+  "dependencies": {
+    "express": "^4.15.3"
+  }
+}

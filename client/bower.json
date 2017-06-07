@@ -1,0 +1,27 @@
+{
+  "name": "drfa",
+  "description": "Django REST Framework and AngularJS",
+  "main": "index.js",
+  "authors": [
+    "Arthur Sun"
+  ],
+  "license": "MIT",
+  "keywords": [
+    "django",
+    "angular"
+  ],
+  "homepage": "https://github.com/sunshouxing/DRFA",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "angular": "^1.6.4",
+    "angular-ui-router": "^1.0.3",
+    "angular-bootstrap": "^2.5.0"
+  }
+}
