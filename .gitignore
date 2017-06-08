@@ -6,3 +6,10 @@
 
 # sqlite database file
 *.sqlite3
+
+# django model migrations
+migrations/
+
+# front end dependencies
+bower_components/
+node_modules/
